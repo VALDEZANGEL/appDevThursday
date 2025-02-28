@@ -29,11 +29,10 @@ Pascua.display();
 	Hernandez.display(); 
 	Piano.display();
 	KPClark.display();
-
+	Valdez.display();
 	Bermejo.display();
 
 Santander.display()
-
     }
 }
 
